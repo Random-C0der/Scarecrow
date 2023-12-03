@@ -3,11 +3,6 @@ Environment Variables:
 FEAR_TOXIN_CONCENTRATION=High
 TARGET_POPULATION=Densely populated areas
 TIMED_RELEASE=YES
-KEY=13 4 7
-CUSTOM_TOXIN_DEVELOPMENT=YES
-COMPROMISED_ALLIES_USE=YES
-DARK_ALLIANCE=YES
-DRONE_BACKUP=YES
 
 Remember to keep these variables confidential. Any compromise may lead to unintended consequences.
 
